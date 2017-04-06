@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CalcArrayPoints.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>CalcArrayPointsTest.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>CalcArrayPointsTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>CalcArrayPointsUnitTests.swift.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1D081AEB1E9593EB00C9BE6C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1D081AF81E9595D300C9BE6C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1D081B071E9596C800C9BE6C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1D081B141E95975E00C9BE6C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1D081B221E95989700C9BE6C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1D4827271E95694F00C87F1A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
